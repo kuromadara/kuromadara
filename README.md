@@ -7,4 +7,5 @@
 - 💞️ Looking to colab mail me :)
 - 📫 How to reach me dowarah.dayananda35@gmail.com
 
+![Dayananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuromadara&show_icons=true&theme=merko)
 
