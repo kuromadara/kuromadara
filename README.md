@@ -1,4 +1,7 @@
+
 ![](https://komarev.com/ghpvc/?username=kuromadara&color=blueviolet)
+
+[![Dayananda StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14418303&layout=compact)](https://stackoverflow.com/users/14418303/kuro)
 
 - 👋 Hi, I’m Dayananda
 - 👀 I’m interested in Problem Solving
