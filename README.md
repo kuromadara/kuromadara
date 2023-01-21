@@ -1,3 +1,10 @@
+<div align="center">
+
+<kbd>
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
+</kbd>
 
 ![](https://komarev.com/ghpvc/?username=kuromadara&color=blueviolet)
 
@@ -20,3 +27,4 @@
 ![Dayananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuromadara&show_icons=true&theme=merko)
 
 
+</div>
