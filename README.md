@@ -24,7 +24,7 @@
 
 ***********************************************************************************************************************************************************************************
 
-![Dayananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuromadara&show_icons=true&theme=merko)
+![Dayananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuromadara&show_icons=true&theme=radical)
 
 
 </div>
